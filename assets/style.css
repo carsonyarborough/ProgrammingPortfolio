@@ -1,0 +1,51 @@
+.banner {
+    background-color: #fe994a;
+    width: 100%;
+    height: 120px;
+    padding: 12px;
+    margin: 4px;
+}
+
+.footer {
+    width: 100%;
+    padding: 18px;
+    background-color: #ffcd91;
+    margin: 4px;
+}
+
+.navbar {
+    width:100%;
+    padding: 12px;
+    background-color: #ffcd91;
+    margin: 4px;
+}
+
+.sidebar {
+    width: 375px;
+    height: 605px;
+    background-color: #fe994a;
+    padding: 12px;
+    margin: 4px;
+}
+.facecard {
+    width:  175px;
+}
+
+.posts{
+    height: 100%;
+    background-color: #fedebe;
+    margin: 8px;
+}
+.page-container {
+    display: flex;
+    flex-direction: column;
+}
+.content-container {
+    display: flex;
+    flex-direction: row;
+}
+.post-container {
+    /* background-color: #fd5602; */
+    display: flex;
+    flex-direction: column;
+}
