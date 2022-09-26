@@ -1,10 +1,9 @@
 # Portfolio
+I created a portfolio to have a space I can show what I've been working on. It also is a continuous project I'd like to keep tweaking and changing. 
+
+![Alt text](assets/images/portfoliopic.png "Optional title")
+
+## Links 
+[Repo Link](https://github.com/carsonyarborough/ProgrammingPortfolio)
 
 
-TO DO : 
-> create links to github and deployed ap[plication for assignments one two and three 
-> take screenshots of deployed applications so that they can be included on portfolio
-> have a contact section with my email and linkedin
-> hyperlink within the page that scrolls to corresponding section
-> link to deployed application through photo '
->resizable page that is responsive in layout 
